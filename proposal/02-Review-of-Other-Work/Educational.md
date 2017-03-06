@@ -1,3 +1,6 @@
+* discuss need for measuring alignment
+* examine current tools
+
 ### Carpinelli et al
 * Standards are common now (2), and much effort has been spent on developing standards-based curriculum and testing,  but does this translate into standards-based lesson planning?
 * Common problems with lesson plans (4)
