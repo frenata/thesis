@@ -19,3 +19,8 @@ La Información , 23(3), 221-235. doi:10.3145/epi.2014.may .02
 Persistent link to this record (Permalink): https://wgu.idm.oclc.or g/login?
 url=http://sear ch.ebscohost.com/login.aspx?dir ect=true&db=a9h&AN=98952266&site=edslive&scope=site
 End of citation-->
+
+Miner, G. (2012). Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications. Amsterdam: Academic Press.
+<!--Additional Information:
+Persistent link to this record (Permalink): https://wgu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=453840&site=eds-live&scope=site
+End of citation-->

@@ -19,4 +19,7 @@
 * "It might prove more effective to apply visualization techniques te texts that have a more formal register and/or predefined outline and a well-defined vocabulary." (232)
 * many software approaches that date from 5+ years old are obsolete or unmaintained. Why?
 
+### Practical
+* extracting from unstructured text: rule-based or statistical?(924)
+ * for semi-structured texts, rule-based seems preferable
 
