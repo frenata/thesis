@@ -1,12 +1,11 @@
 The present project is being driven by a single developer, the author, so highly structured software enginreering methodologies such as the SDLC were quickly rejected as impractical. The requirements for the final project are also not necessarily well understood, with some stakeholders arguing that what leadership wants may not be what they need. In view of these realities, an Agile approach will be adopted. 
 
-Emphasized in this approach are flexibility, iterative design, and continous stakeholder involvement. It is believed that involvement from relevant stakeholders on a weekly basis is practical, which is critical to project success.
+Emphasized in this approach are flexibility, iterative design, and continous stakeholder involvement. It is believed that involvement from relevant stakeholders on a weekly basis is practical, which is critical to project success. Each iterative step should conclude with a concrete deliverable and will include these steps: Requirements Gathering, Analysis/Design, Implementation, and Validation.
 
-For each development iteration, the following steps will be taken:
+Requirements Gathering is a core methodological step which will be focused on heavily at the project outset but repeated as necessary. This step requirest that the developer and stakeholders collaborate to try to understand the desired solution and write up requirements in the form of short _user stories_. A user story represents a concrete narrative of a way in which a user will interact with the system. "A user can login from a central webpage." is a simple example.
 
-1. Gathering user stories with the help of various stakeholders.
-2. Analyzing stories and other requirements to come up with proposed architecture.
-3. Implementing 1 or more stories and producing a product that the stakeholders can interact with.
-4. Validating the implementation of stories with stakeholders.
+The Analysis/Design step consists of analyzing user stories and identifying useful architectural patterns to the desired functionality. Repeated ideas or themes in the user stories are highly relevant to this goal. Importantly, the recommended design needs to be shared with stakeholders early to ensure that the requirements have been properly understood and interpreted.
 
-These four steps will be repeated until all the major elements of the project scope have been implemented.
+Implementation consists of actually producing, through code and documentation, the realization of the user stories and design. Typically only one or two user stories will be implemented at any one time, to ensure that effort is not unnecessarily complicated.
+
+Validation is a critical step is this process. Simply, it consists of allowing the stakeholders to use the developed solution to prove that the user stories have been successfully implemented. It is expected that conflict here will be common and require that user stories be rewritten or added, causing the iterative approach outlined to begin again.
