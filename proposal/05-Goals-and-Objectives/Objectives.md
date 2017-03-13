@@ -1,13 +1,8 @@
-To implement the first goal there are several objectives, primararily corresponding to the questions that originally provoked the project.
-* Measure how often is each ESLR covered.
-* Measure the frequency of lessons that incorporate biblical integration.
-* Ensure compliance with NESA outcomes.
+The goal of this proposal is to determine whether teaching matches educational goals, and this goal will be answered with three objectives. Existing data must be extracted, transformed, and loaded into a database. That database must then be configured to quickly search for complex queries across the available data. These queries must be presented in a simple and pleasing visual way.
 
-There are three objectives related to the goal of on-demand visualization. Work towards these objectives will ultimately cause the first set of objectives to be fulfilled.
-* Create a simple process to load existing lesson plan documents.
-* Enable quick searches across the available data.
-* Provide access to visual reports.
+First, existing data must be made usable. A standard ETL (extract, transform, load) process will be applied to existing lesson plan data. Extraction consists of reading the information in whatever format it already exists. Transforming, a key step, consists of adding structure to the data in order to make it more easily searchable for certain types of data. Loading is simply sending this prepared data into a the database. 
 
-The first three objectives can only be achieved after visual reports are available, so first the infrastructure objectives will be pursued, after which the BI objectives will be implemented.
+Second, the database must be configured to allow for fast, complex queries on the dataset that has been loaded into it. For instance, a database of lesson plans could be queried to determine how many hours each teacher has spent in the classroom in a given school year, and which topics have been most frequently addressed by each teacher. At this point, since the project aims to continue with visualization, the returned results are likely not especially human-readable.
 
+Third, the query/search results must be presented to users in a friendly and easy to understand _visual_ way. This last step is of utmost importance, since it is critical to not just have data, but to be able to understand it. It is expected that this objective will provide a webpage which allows for reports on current data to easily be seen and downloaded.
 
